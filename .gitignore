@@ -1,0 +1,5 @@
+config.ini
+cookies/
+records/
+__pycache__/
+*.pyc
